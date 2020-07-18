@@ -1,5 +1,6 @@
 # InternshipProject2-2D-Casual-Game
 Simple 2D Casual game made in unity and written in C#
+(Unity 2018.4.19f1)
 
 You can play on https://tolgahankurtdere.itch.io/internshipproject2-casual-game
 
